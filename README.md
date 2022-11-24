@@ -29,12 +29,17 @@ The list of normal flows are:
 	- Create new account
 
 The list of error/alternate flows are:
-	- Login - Wrong Credentials
-	- Login - Account Lockout
-	- Change Password - Password does not meet complexity requirements
-	- IT Admin - Create Account errors
-	- IT Admin - Create Account - Missing fields
-	- IT Admin - Create Account - Account already exists
-	- Staff - Late Submission of Availabilities & Preferences
-	- Manager - Error Retrieving Staff Availabilities
-	- Manager - Allocating Job not in line with Staff Preference
+- Login 
+	- Wrong Credentials
+	- Account Lockout
+- Change Password 
+	- Password does not meet complexity requirements
+- IT Admin 
+ 	- Create Account errors
+	- Create Account - Missing fields
+	- Create Account - Account already exists
+- Staff
+	- Late Submission of Availabilities & Preferences
+- Manager
+	- Error Retrieving Staff Availabilities
+	- Allocating Job not in line with Staff Preference
