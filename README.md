@@ -11,8 +11,13 @@ Prototype: https://www.figma.com/proto/FMccOqyOUdHXTmMnIB3fvj/2201-Prototype
 1. Click the prototype link above
 
 ## How to Navigate
-1. Navigate the different flows from the list on the left of your screen
-2. When in doubt on what to click on the screen to proceed, performing some random clicks will reveal the clickable areas on the screen to proceed
+1. Click the second icon on the left in the top bar to open the Workflow list, if it is not already open
+![image](https://user-images.githubusercontent.com/46897206/203917994-fd6f74bb-eaee-40a7-b853-bd564a91378d.png)
+
+2. Navigate the different flows from the list on the left of your screen
+![image](https://user-images.githubusercontent.com/46897206/203918128-e7a04161-ec2d-42ea-b027-115ef03b66b7.png)
+
+2. When in doubt on what to click on the screen to proceed, performing some random clicks will reveal the clickable areas (highlghted in blue) on the screen to proceed
 
 ## List of Flows
 The list of normal flows are:
